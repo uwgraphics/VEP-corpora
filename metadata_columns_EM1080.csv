@@ -1,3 +1,4 @@
+column_name,column_description
 TCP,ID of the TCP file in which the text occurs
 ESTC,ID for the English Short Title Catalogue
 text_name,"name of plain text file, includes TCP ID"
