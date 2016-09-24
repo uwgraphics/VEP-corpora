@@ -5,12 +5,12 @@ text_name,"name of plain text file, includes TCP ID"
 Title,long title of the work
 Title 30 Char of fewer,title given to work in 30 characters or fewer for easy identification purposes
 Author,recorded author of the text
-Physical Description,"lists the size of the original text, whether it be a quarto (4 °), octavo (8 °), etc. Sizes for 1700+ content obtained first from ECCO. For pre-1700 material and broadsides, size was obtained from the ESTC"
-Phys Desc Notes,indicates whether objects of 1-sheet had single-sided or double-sided printing. Entries are either ‘single-sided’ or ‘double-sided’
+Physical Description,"lists the size of the original text, whether it be a quarto (4 Â°), octavo (8 Â°), etc. Sizes for 1700+ content obtained first from ECCO. For pre-1700 material and broadsides, size was obtained from the ESTC"
+Phys Desc Notes,indicates whether objects of 1-sheet had single-sided or double-sided printing. Entries are either â€˜single-sidedâ€™ or â€˜double-sidedâ€™
 Derived Date,year of the text standardized to the format YYYY
 Publication Place,"place of publication, exactly as it is in the text"
 Publisher,publisher information as described in the text
-"Verse, Prose, or Mixed","The threshold for determining strictly verse and strictly prose: If a text is 80% or more prose, then it is labeled as prose. If a text is 80% or more verse, then it is labeled as verse"
+Verse/Prose/Mixed,"The threshold for determining strictly verse and strictly prose: If a text is 80% or more prose, then it is labeled as prose. If a text is 80% or more verse, then it is labeled as verse"
 Helsinki Protoypical Text Categories,Statutory (STA); Secular Instruction (IS); Religious Instruction (IR); Expository (EX); Nonimaginative Narration (NN); Imaginative Narration (IN). Applied to texts based on authorial intent and/or rhetorical situation.
 Non-Helsinki Prototypical Categories,"Instructive (INST), Narrative (NARR), Expository (EX), Statutory (STA), Argumentative, Descriptive (DESC)."
 Notes,"records issues noted by original metadata compilers, such as date discrepancies and where Helsinki Prototypical or Non-Helsinki Prototypical text categories are debatable"
