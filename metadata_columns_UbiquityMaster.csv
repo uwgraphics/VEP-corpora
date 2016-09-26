@@ -1,11 +1,11 @@
 column_name,column_description
-text_name,
-text_key,
-token_csv_name,
-chunk_index,
-!UNRECOGNIZED,
-!UNTAGGED,
-!BLACKLISTED,
+text_name,filename of plain text file uploaded to Ubiquity for tagging
+text_key,key provided by Ubiquity used to identify the uploaded texts
+token_csv_name,name generated for token csv file corresponding to uploa
+chunk_index,an integer that specifies the text chunk number for chunked files; starts at 0 and increases sequentially
+!UNRECOGNIZED,"percentage of text input that is not recognized by the docuscope dictionary, often proper nouns or obscure words"
+!UNTAGGED,percentage of text input that is contained within at least one rule within the docuscope dictionary but doesn't get tagged because the text around it matches no specific rules
+!BLACKLISTED,percentage of text input that matches content set to blacklisted
 AbstractConcepts,
 Acknowledge,
 Anger,
@@ -121,6 +121,6 @@ TimeShift,
 Transformation,
 Uncertainty,
 Updates,
-<# Word Tokens>,
-<# Punctuation Tokens>,
+<# Word Tokens>,total number of word tokens in a text or text chunk
+<# Punctuation Tokens>,number of punctuation tokens in a text or text chunk
 <# Tokens>,
