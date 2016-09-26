@@ -1,11 +1,11 @@
 column_name,column_description
-TCP,
-EEBO,
-VID,
-STC,
-Status,
-Author,
-Date,
-Title,
-Terms,
-Pages,
+TCP,"the ID associated with the file, linking the transcription to a text in EEBO, ECCO, or Evans"
+EEBO,the ID associated with the file in EEBO
+VID,the ID assigned by a publisher to an image set
+STC,the citation number for the associated text in the Short Title Catalog
+Status,"indicates whether the TCP source file is ""free"" or ""restricted"" material"
+Author,author as provided by the TCP
+Date,date as provided by the TCP
+Title,title as provided by the TCP
+Terms,subject headings associated with the text
+Pages,number of pages in the transcribed text

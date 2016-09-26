@@ -1,7 +1,7 @@
 column_name,column_description
 TCP,ID of the TCP file in which the text occurs
 ESTC,ID for the English Short Title Catalogue
-text_name,"name of plain text file, includes TCP ID"
+text_name,filename for the VEP plain text file generated from TCP source file
 Title,long title of the work
 Title 30 Char of fewer,title given to work in 30 characters or fewer for easy identification purposes
 Author,recorded author of the text
@@ -14,4 +14,4 @@ Verse/Prose/Mixed,"The threshold for determining strictly verse and strictly pro
 Helsinki Protoypical Text Categories,Statutory (STA); Secular Instruction (IS); Religious Instruction (IR); Expository (EX); Nonimaginative Narration (NN); Imaginative Narration (IN). Applied to texts based on authorial intent and/or rhetorical situation.
 Non-Helsinki Prototypical Categories,"Instructive (INST), Narrative (NARR), Expository (EX), Statutory (STA), Argumentative, Descriptive (DESC)."
 Notes,"records issues noted by original metadata compilers, such as date discrepancies and where Helsinki Prototypical or Non-Helsinki Prototypical text categories are debatable"
-Status,"status of document in TCP, either Free or Restricted"
+Status,"status of document in TCP, either ""Free"" or ""Restricted"""

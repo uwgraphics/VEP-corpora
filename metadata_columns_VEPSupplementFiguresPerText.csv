@@ -1,3 +1,3 @@
-column_name,column_description
-TCP,
-# of Figures,
+column_name,column_description,curator,curator_contact
+TCP,"unique identifier that links the TCP transcription to a specific text from either EEBO, ECCO, or Evans",Erin Winter,ewinter3@wisc.edu
+# of Figures,the number of figures per TCP file (total number of <FIGURE> XML tags found in TCP file,,
