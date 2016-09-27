@@ -3,7 +3,7 @@ TCP,ID of the TCP file in which the text occurs
 ESTC,ID for the English Short Title Catalogue
 text_name,filename for the VEP plain text file generated from TCP source file
 Title,long title of the work
-Title 30 Char of fewer,title given to work in 30 characters or fewer for easy identification purposes
+Title 30 Char or fewer,title given to work in 30 characters or fewer for easy identification purposes
 Author,recorded author of the text
 Physical Description,"lists the size of the original text, whether it be a quarto (4 °), octavo (8 °), etc. Sizes for 1700+ content obtained first from ECCO. For pre-1700 material and broadsides, size was obtained from the ESTC"
 Phys Desc Notes,indicates whether objects of 1-sheet had single-sided or double-sided printing. Entries are either ‘single-sided’ or ‘double-sided’
