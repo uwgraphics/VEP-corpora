@@ -1,8 +1,6 @@
 column_name,column_description,curator,curator_contact
 TCP,"unique identifier that links the TCP transcription to a specific text from either EEBO, ECCO, or Evans; most plays are the only text in the file, but some are in collected volumes which are trancribed in TCP in a single text file--for disambiguation, see playfile number",Jonathan Hope,jonathan.r.hope@strath.ac.uk
 estc,ESTC record ID associated with TCP transcription,Beth Ralston,beth.ralston@strath.ac.uk
-playfile,"this is where individual plays are distinguished if they belong in a collection (e.g., tcpnumber_01, tcp_number02, etc.)",,
-corpus_name,,,
 Wiggins number,"the easiest way to locate the plays within the Wiggins volumes, as they are listed in the index by this number rather than the page number",,
 author,"first listed author – note: in cases where the play is a translation, the original author is listed here and the translator’s name is in the translator column",,
 author 2,second listed author,,
@@ -11,7 +9,7 @@ author 4,fourth listed author,,
 author 5,fifth listed author,,
 translator,"translator plus the name of the original play, where available",,
 adaptation,"texts with entries in this column are adaptations of earlier texts / the adapter of the text is listed in the ‘author’ column; the title, date, and author of the original text are listed in the ‘adaptation’ column, where available",,
-missing from tcp or excluded,"yes/no – yes indicates any plays which are not in tcp at this time, as well as the removed duplicates, Latin and fragmentary plays",,
+missing or excluded from TCP,"yes/no – yes indicates any plays which are not in tcp at this time, as well as the removed duplicates, Latin and fragmentary plays",,
 title,the title by which the play is commonly known– often the contemporary title,,
 alternative title,"the plays within the Wiggins volumes have the most info here, including titles for printed versions, performances, contemporary titles and alternative modernisations; DEEP sometimes offers alternative titles in brackets",,
 type,ype of text – this column was added so that non-drama corpora can be merged with this spreadsheet e.g. we have a Science corpus in the works which may be added to the master metadata file in the future,,
