@@ -13,5 +13,5 @@ Publisher,publisher information as described in the text
 Verse/Prose/Mixed,"The threshold for determining strictly verse and strictly prose: If a text is 80% or more prose, then it is labeled as prose. If a text is 80% or more verse, then it is labeled as verse"
 Helsinki Prototypical Text Category,Statutory (STA); Secular Instruction (IS); Religious Instruction (IR); Expository (EX); Nonimaginative Narration (NN); Imaginative Narration (IN). Applied to texts based on authorial intent and/or rhetorical situation.
 Non-Helsinki Prototypical,"Instructive (INST), Narrative (NARR), Expository (EX), Statutory (STA), Argumentative, Descriptive (DESC)."
-Notes,"records issues noted by original metadata compilers, such as date discrepancies and where Helsinki Prototypical or Non-Helsinki Prototypical text categories are debatable"
 Status,"status of document in TCP, either ""Free"" or ""Restricted"""
+Notes,"records issues noted by original metadata compilers, such as date discrepancies and where Helsinki Prototypical or Non-Helsinki Prototypical text categories are debatable"
