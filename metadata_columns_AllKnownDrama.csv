@@ -22,6 +22,7 @@ date of writing,"all texts have been given a date of writing – DEEP doesn’t have
 date of 1st performance,"year of 1st performance, if known"
 Harbage limits of performance date,"for plays extracted from Harbage, extra information about performance date is listed here e.g. date, month, when the play was licensed for production, etc."
 date of 1st publication,"year of first publication, if known"
+decade,groups plays by decade based on 'date of writing'
 date of text used,"in cases where texts exist in multiple editions, this identifies the edition used"
 play company 1,"first play company, if known – texts are also marked in this column as being unacted or closet dramas, if known"
 play company 2,"additional known play companies are listed here – DEEP offers ‘company of first production’ as well as ‘company attribution’, so the former is listed under play company 1 and the latter under play company 2, where available"
