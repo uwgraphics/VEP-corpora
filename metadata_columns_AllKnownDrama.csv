@@ -1,36 +1,36 @@
-column_name,column_description,curator,curator_contact
-TCP,"unique identifier that links the TCP transcription to a specific text from either EEBO, ECCO, or Evans; most plays are the only text in the file, but some are in collected volumes which are trancribed in TCP in a single text file--for disambiguation, see playfile number",Jonathan Hope,jonathan.r.hope@strath.ac.uk
-estc,ESTC record ID associated with TCP transcription,Beth Ralston,beth.ralston@strath.ac.uk
-Wiggins number,"the easiest way to locate the plays within the Wiggins volumes, as they are listed in the index by this number rather than the page number",,
-author,"first listed author – note: in cases where the play is a translation, the original author is listed here and the translator’s name is in the translator column",,
-author 2,second listed author,,
-author 3,third listed author,,
-author 4,fourth listed author,,
-author 5,fifth listed author,,
-translator,"translator plus the name of the original play, where available",,
-adaptation,"texts with entries in this column are adaptations of earlier texts / the adapter of the text is listed in the ‘author’ column; the title, date, and author of the original text are listed in the ‘adaptation’ column, where available",,
-missing or excluded from TCP,"yes/no – yes indicates any plays which are not in tcp at this time, as well as the removed duplicates, Latin and fragmentary plays",,
-title,the title by which the play is commonly known– often the contemporary title,,
-alternative title,"the plays within the Wiggins volumes have the most info here, including titles for printed versions, performances, contemporary titles and alternative modernisations; DEEP sometimes offers alternative titles in brackets",,
-type,ype of text – this column was added so that non-drama corpora can be merged with this spreadsheet e.g. we have a Science corpus in the works which may be added to the master metadata file in the future,,
-genre,"these are the genres originally assigned earlier in the project by Jonathan Hope – either Tragedy [TR], Tragicomedy [TC], Comedy [CO], History [HI], Masque [MA], Interlude [IN], Entertainment [EN], Dialogue [DI], or Non-Dramatic [ND] – these have been left as is",,
-Wiggins genre,Wiggins proposed genre,,
-DEEP genre,DEEP proposed genre,,
-Harbage genre,Harbage proposed genre,,
-Wiggins contemporary genre,what Wiggins gives as the contemporary genre,,
-date of writing,"all texts have been given a date of writing – DEEP doesn’t have a ‘date of writing’ column but sometimes offers a date range under ‘date of first production’, so in these instances the earliest date was taken for date of writing – if Wiggins offers a fixed date for date of writing then this was taken",,
-date of 1st performance,"year of 1st performance, if known",,
-Harbage limits of performance date,"for plays extracted from Harbage, extra information about performance date is listed here e.g. date, month, when the play was licensed for production, etc.",,
-date of 1st publication,"year of first publication, if known",,
-date of text used,"in cases where texts exist in multiple editions, this identifies the edition used",,
-play company 1,"first play company, if known – texts are also marked in this column as being unacted or closet dramas, if known",,
-play company 2,"additional known play companies are listed here – DEEP offers ‘company of first production’ as well as ‘company attribution’, so the former is listed under play company 1 and the latter under play company 2, where available",,
-theatre,"theatre and/or location of production, where available",,
-metre,"only in Wiggins, as DEEP doesn’t have this category – ‘yes’ means the play is not prose",,
-rhyme,"only in Wiggins, as DEEP doesn’t have this category – ‘yes’ means the play has rhyme",,
-notes,records issues that have come up since the list of TCP numbers were sent off to Wisconsin on 29/04/15,,
-text_name,filename for VEP plain text file generated from TCP source file,,
-in_core_1660,"indicates if a text is in the Core Drama 1660, marked either ""TRUE"" or ""FALSE""",,
-in_expanded_1660,"indicates if a text is in the Expanded Drama 1660, marked either ""TRUE"" or ""FALSE""",,
-in_expanded_1700,"indicates if a text is in the Core Drama 1700, marked either ""TRUE"" or ""FALSE""",,
-status,"indicates whether the TCP file is ""Free"" or ""Restricted""",,
+column_name,column_description
+TCP,"unique identifier that links the TCP transcription to a specific text from either EEBO, ECCO, or Evans; most plays are the only text in the file, but some are in collected volumes which are trancribed in TCP in a single text file--for disambiguation, see playfile number"
+estc,ESTC record ID associated with TCP transcription
+Wiggins number,"the easiest way to locate the plays within the Wiggins volumes, as they are listed in the index by this number rather than the page number"
+author,"first listed author – note: in cases where the play is a translation, the original author is listed here and the translator’s name is in the translator column"
+author 2,second listed author
+author 3,third listed author
+author 4,fourth listed author
+author 5,fifth listed author
+translator,"translator plus the name of the original play, where available"
+adaptation,"texts with entries in this column are adaptations of earlier texts / the adapter of the text is listed in the ‘author’ column; the title, date, and author of the original text are listed in the ‘adaptation’ column, where available"
+missing or excluded from TCP,"yes/no – yes indicates any plays which are not in tcp at this time, as well as the removed duplicates, Latin and fragmentary plays"
+title,the title by which the play is commonly known– often the contemporary title
+alternative title,"the plays within the Wiggins volumes have the most info here, including titles for printed versions, performances, contemporary titles and alternative modernisations; DEEP sometimes offers alternative titles in brackets"
+type,ype of text – this column was added so that non-drama corpora can be merged with this spreadsheet e.g. we have a Science corpus in the works which may be added to the master metadata file in the future
+genre,"these are the genres originally assigned earlier in the project by Jonathan Hope – either Tragedy [TR], Tragicomedy [TC], Comedy [CO], History [HI], Masque [MA], Interlude [IN], Entertainment [EN], Dialogue [DI], or Non-Dramatic [ND] – these have been left as is"
+Wiggins genre,Wiggins proposed genre
+DEEP genre,DEEP proposed genre
+Harbage genre,Harbage proposed genre
+Wiggins contemporary genre,what Wiggins gives as the contemporary genre
+date of writing,"all texts have been given a date of writing – DEEP doesn’t have a ‘date of writing’ column but sometimes offers a date range under ‘date of first production’, so in these instances the earliest date was taken for date of writing – if Wiggins offers a fixed date for date of writing then this was taken"
+date of 1st performance,"year of 1st performance, if known"
+Harbage limits of performance date,"for plays extracted from Harbage, extra information about performance date is listed here e.g. date, month, when the play was licensed for production, etc."
+date of 1st publication,"year of first publication, if known"
+date of text used,"in cases where texts exist in multiple editions, this identifies the edition used"
+play company 1,"first play company, if known – texts are also marked in this column as being unacted or closet dramas, if known"
+play company 2,"additional known play companies are listed here – DEEP offers ‘company of first production’ as well as ‘company attribution’, so the former is listed under play company 1 and the latter under play company 2, where available"
+theatre,"theatre and/or location of production, where available"
+metre,"only in Wiggins, as DEEP doesn’t have this category – ‘yes’ means the play is not prose"
+rhyme,"only in Wiggins, as DEEP doesn’t have this category – ‘yes’ means the play has rhyme"
+notes,records issues that have come up since the list of TCP numbers were sent off to Wisconsin on 29/04/15
+text_name,filename for VEP plain text file generated from TCP source file
+in_core_1660,"indicates if a text is in the Core Drama 1660, marked either ""TRUE"" or ""FALSE"""
+in_expanded_1660,"indicates if a text is in the Expanded Drama 1660, marked either ""TRUE"" or ""FALSE"""
+in_expanded_1700,"indicates if a text is in the Core Drama 1700, marked either ""TRUE"" or ""FALSE"""
+status,"indicates whether the TCP file is ""Free"" or ""Restricted"""

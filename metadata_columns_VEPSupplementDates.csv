@@ -1,5 +1,5 @@
-column_name,column_description,curator,curator_contact
-TCP,"unique identifier that links the TCP transcription to a specific text from either EEBO, ECCO, or Evans",Deidre Stuffer,stuffer@wisc.edu
-Derived Date,the lowest valid date in a provided range,,
-Deidre Date,date or date range provided by sources,,
-Deidre Date Notes,"notes accompanying provided ""Deidre Dates"" column",,
+column_name,column_description
+TCP,"unique identifier that links the TCP transcription to a specific text from either EEBO, ECCO, or Evans"
+Derived Date,the lowest valid date in a provided range
+Deidre Date,date or date range provided by sources
+Deidre Date Notes,"notes accompanying provided ""Deidre Dates"" column"
