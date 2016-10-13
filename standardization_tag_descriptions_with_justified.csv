@@ -1,3 +1,0 @@
-considrd,"""Considered"" - These are words that were partial matches to rules in the standardization dictionary, but not complete matches (and so were not changed)"
-strd,"""Standardized"" - These are words that were changed by the standardization process."
-justified,These are words that were not standardized by the automatic process but were identified by hand as being candidates for standardization. Justification for why they were not standardized can be seen by mousing over them in the text.
