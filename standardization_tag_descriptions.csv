@@ -1,0 +1,2 @@
+considrd,"""Considered"" - These are words that were partial matches to rules in the standardization dictionary, but not complete matches (and so were not changed)"
+strd,"""Standardized"" - These are words that were changed by the standardization process."
