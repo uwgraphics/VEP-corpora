@@ -1,25 +1,25 @@
-column_name,column_description,,curator,curator_contact
-TCP,"unique identifier that links the TCP transcription to a specific text from either EEBO, ECCO, or Evans",,Alan Hogarth,alan.hogarth@strath.ac.uk
-text_name,filename of the VEP text file generated from the TCP file,,,
-STC,"contains STC citation, along with some Wing, Evans, and Shipton citations based on file",,,
-ESTC,ESTC record ID associated with TCP transcription,,,
-Status,"indicates whether the TCP source file is ""free"" or ""restricted"" material",,,
-Author,author as provided by TCP file,,,
-Author 2,author as provided by TCP file,,,
-Author 3,author as provided by TCP file,,,
-Author 4,author as provided by TCP file,,,
-Translator,translator as provided by TCP file,,,
-Date,date of publication as provided in the TCP file,,,
-Date Corrections,notes about the date as recorded by sources other than TCP file,,,
-Title,the full title as originally published,,,
-Form,"form of the text, such as a dialogue, treatise, letter, etc.",,,
-Genre,genre of Early Modern Science,,,
-Network,the intellectual affiliations of a particular set of authors,,,
-Notes,notes about the text,,,
-Pages,number of pages in text according to TCP master spreadsheet,,,
-Simplified Title,"a shorter title than the full title provided in the ""Title"" column",,,
-SuperScience Subgenre,scientific subgenre of text as listed as labeled in the Super Science corpus,,,
-BigNames Subgenre,scientific subgenre of text as listed as labeled in the Big Names of Science corpus,,,
-Terms,subject headings associated with the text,,,
-SuperScience,"indicates whether or not a file is in the Super Science corpus, marked ""TRUE"" or ""FALSE""",,,
-BigNamesScience,"indicates whether or not a file is in the Big Names of Science corpus, marked ""TRUE"" or ""FALSE""",,,
+column_name,column_description
+TCP,"unique identifier that links the TCP transcription to a specific text from either EEBO, ECCO, or Evans"
+text_name,filename of the VEP text file generated from the TCP file
+STC,"contains STC citation, along with some Wing, Evans, and Shipton citations based on file"
+ESTC,ESTC record ID associated with TCP transcription
+Status,"indicates whether the TCP source file is ""free"" or ""restricted"" material"
+Author,author as provided by TCP file
+Author 2,author as provided by TCP file
+Author 3,author as provided by TCP file
+Author 4,author as provided by TCP file
+Translator,translator as provided by TCP file
+Date,date of publication as provided in the TCP file
+Date Corrections,notes about the date as recorded by sources other than TCP file
+Title,the full title as originally published
+Form,"form of the text, such as a dialogue, treatise, letter, etc."
+Genre,genre of Early Modern Science
+Network,the intellectual affiliations of a particular set of authors
+Notes,notes about the text
+Pages,number of pages in text according to TCP master spreadsheet
+Simplified Title,"a shorter title than the full title provided in the ""Title"" column"
+SuperScience Subgenre,scientific subgenre of text as listed as labeled in the Super Science corpus
+BigNames Subgenre,scientific subgenre of text as listed as labeled in the Big Names of Science corpus
+Terms,subject headings associated with the text
+SuperScience,"indicates whether or not a file is in the Super Science corpus, marked ""TRUE"" or ""FALSE"""
+BigNamesScience,"indicates whether or not a file is in the Big Names of Science corpus, marked ""TRUE"" or ""FALSE"""

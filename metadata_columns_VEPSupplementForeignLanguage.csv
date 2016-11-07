@@ -1,4 +1,4 @@
-column_name,column_description,curator,curator_contact
-TCP,"unique identifier that links the TCP transcription to a specific text from either EEBO, ECCO, or Evans",Erin Larson,eelarson3@wisc.edu
-Primary Language,list of primary languages if not English,Heather Froehlich,heather.froehlich@strath.ac.uk
-Secondary Language,list of secondary languages,,
+column_name,column_description
+TCP,"unique identifier that links the TCP transcription to a specific text from either EEBO, ECCO, or Evans"
+Primary Language,list of primary languages if not English
+Secondary Language,list of secondary languages
