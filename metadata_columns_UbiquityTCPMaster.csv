@@ -1,0 +1,127 @@
+column_name,column_description
+TCP,"the ID associated with the file, linking the transcription to a text in EEBO, ECCO, or Evans"
+text_name,filename of plain text file uploaded to Ubiquity for tagging
+text_key,key provided by Ubiquity used to identify the uploaded texts
+token_csv_name,name generated for token csv file corresponding to uploa
+chunk_index,an integer that specifies the text chunk number for chunked files; starts at 0 and increases sequentially
+!UNRECOGNIZED,"percentage of text input that is not recognized by the docuscope dictionary, often proper nouns or obscure words"
+!UNTAGGED,percentage of text input that is contained within at least one rule within the docuscope dictionary but doesn't get tagged because the text around it matches no specific rules
+!BLACKLISTED,percentage of text input that matches content set to blacklisted
+AbstractConcepts,"The use of words indicating abstract concepts (e.g., metaphysics), a category including a very large set of latin (tion, sion, ment, ogy) or greek (logy) suffixes and other patterns indicating abstract general concepts, like sociological or anthropological."
+Acknowledge,"The use of words that give public notice of gratitude to persons (e.g., I acknowledge your help, thank you). Acknowlegments can also work in contexts that have nothing to do with gratitude. See apology and concessions for these types of acknowledgments. "
+Anger,The use of words referencing anger.
+Apology,"The use of words indicating apology (e.g., I'm sorry). "
+Aside,"The use of words indicating a side comment or return from one (e.g., by the way, anyway)."
+Attack_Citation,A citation attacking a previous source.
+Authoritative_Citation,A citation of a source that knows.
+Autobio,"The use of words indicating self-reference (e.g., First Person, I, me, my) in combination with a form of have or used-to to signal an individual mind reflecting back on a personal past (e.g., I have, I have always, I used to)."
+Biographical_Time,"The use of words marking milestones in a person's life (e.g.,in her youth, she would never again). Time intervals that reflect back upon a whole life lived. Commonly used by the omnicient narrator in fiction and by the writer of obituaries."
+Cause,"The use of words indicating causation, or cause-consequence sequence, which, like any sequential process, unfolds in time (e.g., cause to consequence). A process whose earlier phases are responsible for bringing about the later phases. The focus of this LAT is the early phases, the causes."
+Citations,"The use of words indicating external sources (e.g., according to, to cite, to quote from the words of, some have argued that)."
+CommonAuthorities,"The use of words making direct reference to public or institutional authorities, already familiar and respected in the culture (e.g., founding fathers, Emirs, parliamentary course of action, duly authorized)."
+CommunicatorRole,"The use of words referencing a formal communication situation (eg. ""speaker"" ""listener"" ""audience"")."
+Comparison,"The use of words indicating conceptual similarity and difference, like ""more"" or ""fewer."" "
+Concessive,"The use of words indicating that another and overridable point of view is available (e.g., although, even if, it must be acknowledged). The public acknowledgement of the weaknesses in one's own position or the strengths in the position of an opponent. "
+Confidence,"The use of words indicating feelings of absolute knowledge (e.g., completely true, assuredly so)."
+ConfirmExperience,"The use of words indicating the confirmation of a just-taken instructional step (e.g., [assuming you took the right step] you will see, you will then see, you will be looking at, you should be looking at)."
+ConfirmedThght,"The use of words indicating that the writer agrees to and supports ideas that are already out in the culture and well-known (e.g., I recognize that, I agree with)."
+Confront,"The use of words that confront or threaten the addressee (e.g., What were you thinking of?; I'll kick your butt)."
+Consequence,"The use of words indicating consequence, or cause-consequence sequence, which, like any sequential process, unfolds in time (e.g., cause to consequence). A process whose earlier phases are responsible for bringing about the later phases. The focus of this LAT is the later phases, the consequences."
+Contested_Citation,A citation of a source in a debate.
+Contingency,"The use of words indicating contingency (e.g., if, possibly)."
+Curiosity,"The use of words involving a reader in a common line of thinking (e.g., what then shall we make of?). Two minds engaged in intellectual problem-solving."
+Definition,"The use of words indicating definitions (e.g., is defined as, the meaning of the term)."
+DenyDisclaim,"The use of words like not or some other negative element in front of an assertion, which signals the taking away of what a listener or reader might believe (e.g., not the case, not do it, am not a crook)."
+DialogCues,"The use of words indicating dialog (e.g., ',""""', she said)."
+DirectAddress,"The use of words summoning another's attention (e.g., let us, I advise you, I urge, I urge you to, I recommend, I favor) or making implicit acknowledgement of an interlocutor (e.g., you, trust me, okay now)."
+DirectReasoning,"The use of words that initiate and direct another's reasoning (e.g., suppose that, imagine that). Words that invite one to start a chain of reasoning."
+Disclosure,"The use of words indicating the leaking of private information (e.g., confess, acknowledge that, admit, let on that, let it slip that). Readers are awarded special access to information that strangers won't get."
+ErrorRecovery,"The use of words indicating how to recover from error (e.g., should you get lost....). "
+Example,"The use of words indicating an example (e.g., for example)."
+Exceptions,"The use of words indicating exception (e.g., an exception, the only one to). A member of class resists a generalization assigned to other members. Jeff was the only cheerleader to wear yellow socks."
+Fear,The use of words referencing fear.
+Feedback,"The use of words indicating generic feedback to another (e.g., okay)."
+FirstPer,"The use of words indicating self-reference (e.g., I, me, my, myself)."
+FollowUp,"The use of words referencing a previous interaction (e.g., in response to your, per your last message)."
+Future_Question,"The use of questions that start with ""will"" to indicate the question pertains to a future state."
+Future_in_Past,"The use of words that presents what the future looked like from the vantage of the past. Example: what the year 1940 looked like from the vantage of 1930. Think of this technique in riveting history writing that tries to show you how a historical character made plans about an uncertain future (e.g., Lincoln was to look for the general who could win the war for him). The technique can be use for everyday purposes too, such as ""Mom was to be home by now."" The future in past can either indicate a future action that was planned then and still ongoing (e.g. Jill WAS TO go to the store [indeed she may be there righ now]) or a future planned then but that has now completed or resolved itself (e.g. Jill was to HAVE gone to the store [if she did, it is past the time we can reasonably expect Jill to be there]). "
+Generalization,"The use of words indicating generalizations (e.g., all, every). Some property is extended to all members of a class."
+GenericEvents,"The use of words reporting generic events, events that repeat over time through processes of biology, culture, and convention (e.g., sleeping, playing, working, relaxing)."
+Immediacy,"The use of words indicating immediacy (e.g., right now, now, just then)."
+Imperative,"The use of imperative verbs (e.g., Come to, Stop what you are doing)."
+In_Media,"The use of words circulating freely over formal or informal media channels. This includes institutional networks but also rumor, gossip, buzz and memes. These words may or may not authorized and so they are not used in warranting information as readily as the information used in commonplace authority (see the class of public language called CommonAuthorities)."
+Inclusive,"The use of inclusive words (e.g., we all, all together). Someone feels a sense of social belonging, fellow feeling, or like-mindedness and is expressing it."
+Innovations,"The use of words indicating significant discovery (e.g., breakthrough, cutting-edge, state-of-the-art). Technological innovations, particularly the kind that Wall Street wants to invest in."
+Insist,"The use of words indicating insistence, either on action (e.g., you need to come) or on reasoning (e.g., you need to consider). Hallmarks of insistence langauge are the modals ""must"" ""should"" ""need"" and ""ought""."
+Intensity,"The use of words indicating a mind very actively involved and committed to the ideas being expressed (e.g., very, fabulously, really, torrid, amazingly)."
+LangRef,"The use of words referencing language objects (e.g., noun, verb, adjective, play, novel, poem, prose)."
+MatureProcess,"The use of words indicating a mature sequential process, now in its late or advanced stages of development (e.g., well-done, well into his third year)."
+Metadiscourse,"The use of language indicating linear navigational guides through the stream of language (e.g., to clarify, just to be brief, this paper will argue, my purpose is)."
+Motions,"The use of words indicating motion (e.g., run, skip, jump)."
+MoveBody,"The use of words indicating physical directions to the body (e.g., clasp, grab, twist, lift up)."
+Narrative_Verbs,"The use of past -ed verbs indicating the action of a story (e.g., came, saw, conquered)."
+NegFeedback,"The use of words indicating negative feedback (e.g., that's awful, that's crummy)."
+Neg_Citation,A citation that hints at a biased or deficient source.
+Negative_Attribution,This dimension is active when a negative attribution is made of a man or woman expressed by the pronoun he or she.
+Negative_Relation,"The use of words that indicate negative relations (e.g. condemn, denounce, criticize)."
+Negativity,This class is active when the writing includes negative emotion.
+Neutral_Attribution,This dimension is active when a neutral attribution is made of a man or woman expressed by the pronoun he or she.
+Numbers,The use of words indicating numbers.
+OpenQuery,The use of survey-type queries. One mind seeking information from what seems like a population of other heads.
+OralCues,"The use of words indicating the oral register (e.g., well, uh..um)."
+PersonPronoun,"The use of pronouns (e.g., he, she) indicatings the persistent topical reference to people, especially in narrative."
+PersonProperty,"The use of words referencing a person's formal (e.g. someone) or occuptional and identity roles (e.g., butcher, baker, catholics)."
+PosFeedback,"The use of words indicating positive feedback (e.g., that's very good, very nice)."
+Positive_Attribution,This dimension is active when a positive attribution is made of a man or woman expressed by the pronoun he or she.
+Positivity,This class is active when the writing includes positive emotion.
+Precedent_Defending,"The use of words referencing a chain of historical decisions to which you can link your own ideas (e.g., has long  been; has a long history)."
+Precedent_Setting,"The use of words reporting historical ""firsts."""
+PredictedFuture,"The use of words predicting the future more confidently than the regular future orientation, with often leaves the future uncertain or contingent. With patterns using the predicted future, the writer projects out to an imagined future, one even farther into the future than the future being predicted. Example: Imagine predicting what the year 2010 will look like from the vantage of 2020. You see this technique in science fiction writing (e.g., By 2020, Earth will have long been conquered) and policy statements that project outward to, say, 2050 (e.g., By 2050, we will have cured cancer, we will have forgotten what it was like to use a rotary telephone, etc.). The technique can be used for everyday purposes too, such as ""Mom will be home by now."""
+PriorKnowledge,"The use of words indicating that the ideas under discussion are already public and familiar to the audience hearing or reading them (e.g., as you know)."
+PrivateThinking,"The use of words indicating the unshared contents of an individual mind (e.g., believe, feel, conjecture, speculate, pray for, hallucinate). A front row seat into someone else's mind."
+Procedures,"The use of words indicating procedures to perform (e.g., fold on the dotted line, do not bend, fold, or mutilate)."
+ProjectAhead,"The use of words indicating the future (e.g., in order to, look forward to, will be in New York)."
+ProjectBack,"The use of words indicating a mental leap to the past (e.g., used to, have been, had always wanted, would have liked to)."
+Promise,"The use of words indicating a promise being made (e.g. promise, promised that)."
+Question,The use of questions.
+Quotation,"The use of quotations. As Shakespeare wrote: ""All's well that ends well."""
+ReasonBackward,"The use of words indicating a chain of thought moving backward from conclusion to premise, effect to cause (e.g., because, owing to the fact, on the grounds that). One link in the chain depends on an earier link and the dependence was not mentioned in the forward direction. So it is mentioned after the fact."
+ReasonForward,"The use of words indicating a chain of thought moving forward from premise to conclusion, cause to effect (e.g., thus, therefore). Ideas progress down a chain and the writer is leading the reader down the chain, link by link."
+Reassure,"The use of words that reassure (e.g., don't worry, it's okay)."
+ReceivedPOV,"The use of words indicating prior points of view that are already circulating in the culture and well-known. (e.g., some hold that; others believe that). The beliefs, ideas, and approaches that have been proposed and archived as part of public culture."
+RecurringEvents,"The use of words reporting event recurrence over time (e.g., again, recurred)."
+Reinforce,"The use of words that reinforce (e.g., congratulations, good going). An audience has passed a milestone and is being praised. Or the speaker provides words that reinforce the audience's prior values."
+Reluctance,"The use of words indicating resistance within the mind (e.g., regret that, sorry that, afraid that)."
+Repair_Citation,A citation used to counter a previous statement.
+ReportingEvents,"The use of words, especially verbs of reporting, that report event information (e.g., established, instituted, influenced)."
+ReportingStates,"The use of verbs of ""is"" ""are"" and ""be"" to report constant states of information, along with many other varieties of verbs used to report states of affairs (e.g., is carried by, is housed in)."
+Request,"The use of words that make requests (e.g., I request)."
+Resemblances,"The use of words indicating perceptual similarity. Resemblances indicate positive comparisons based on visual, auditory, or other sensory similarities  (e.g., resembles, looks like)."
+Resistance,"The use of words indicating an opposition or struggle between competing ideas, events, forces, or groups (e.g., resistant, veto, contradiction, counterargument, filibuster, went into battle against). Listed under reasoning because opponents have minds who can counterplan."
+Responsibility,"The use of words where public responsibility is referenced (e.g., responsible). "
+Sad,The use of words referencing sadness.
+SceneShift,"The use of words indicating shifts in spatial location, typically indicated by entering or leaving human-made and geographically defined enclosures (e.g., left the room, went oudoors)."
+SelfDisclosure,"The use of words indicating self-reference (e.g., First Person; I, me, my) in combination with verbs indicating personal thought or feeling (e.g., I think, I feel, I believe)."
+SelfReluctance,"The use of words indicating first person resistance within decision-making,  (e.g., I regret that, I am sorry  that, I'm afraid that)."
+Self_Promise,"The use of words indicating a promise being made from the first person (e.g., I promise, we promised that)."
+SenseObject,"The use of concrete nouns (e.g., table, chair). The five senses related to objects."
+SenseProperty,"The use of words indicating concrete properties (e.g., pink, velvety). The five senses related to properties."
+Sequence,"The use of words indicating a sequential process unfolding over time (e.g., first, second)."
+SpaceRelation,"The use of words indicating relations in space (e.g., sitting next to, abutting)."
+Specifiers,"The use of words indicating more specific or more restricted information is to come (e.g., in particular, more specifically). "
+Speculative_Citation,A citation of a source that is guessing.
+StandardsNeg,"The use of words indicating standards most audiences reject (e.g., Injustice, unhappiness, unfairness, the bad)."
+StandardsPos,"The use of words indicating standards most audiences believe in (e.g., justice, happiness, fairness, the good). Exerience: Standards to uphold and champion."
+SubjectivePercept,"The use of words indicating that one's take on reality is only a version that needs to be confirmed by other minds to count as objective (e.g., it seems, tentatively, appears to be, a way to think about)."
+SubjectiveTime,"The use of words indicating experiencing time from the inside (e.g., seems like only yesterday)."
+Substitution,"The use of words indicating substitution (e.g., goes in to replace)."
+Support,The use of words indicating support or evidence for a reasoning process that you or someone you are citing has.
+TimeDate,"The use of words indicating the time and date (e.g., June 5, 2000)."
+TimeDuration,"The use of words indicating temporal intervals (e.g., for two years, over the last month). "
+TimeShift,"The use of words indicating time shifts (e.g., next week, next month)."
+Transformation,"The use of words indicating transformation (e.g., computerize, metamorphize)."
+Uncertainty,"The use of words indicating uncertainty (e.g., maybe, perhaps)."
+Updates,"The use of words reporting an update (e.g., the latest, latebreaking, announcing a new) and directly signaling a change over into a new state or reality."
+<# Word Tokens>,total number of word tokens in a text or text chunk
+<# Punctuation Tokens>,number of punctuation tokens in a text or text chunk
+<# Tokens>,number of total tokens
