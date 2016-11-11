@@ -1,0 +1,5 @@
+column_name,column_description
+TCP,TCP id for source file
+SimpleText Link,URL to see SimpleText version of the document
+Docuscope Tagged Link,URL to see document tagged with Docuscope categories in SlimTV
+Stardardization Tagged Link,"URL to see how document was standardized, viewed through SlimTV"
