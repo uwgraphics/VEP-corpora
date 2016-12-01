@@ -1,0 +1,5 @@
+column_name,column_description
+TCP,TCP file ID number
+text_name,filename for plain text file in VEP corpora
+component0,first priniciple component of DocuScope LATs
+component1,second principle component of DocuScope LATs
