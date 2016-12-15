@@ -2,4 +2,4 @@ column_name,column_description
 text_name,filename for the VEP plain text file generated from TCP source file
 SimpleText Link,URL to see SimpleText version of the document
 Docuscope Tagged Link,URL to see document tagged with Docuscope categories in SlimTV
-Stardardization Tagged Link,"URL to see how document was standardized, viewed through SlimTV"
+Standardization Tagged Link,"URL to see how document was standardized, viewed through SlimTV"
