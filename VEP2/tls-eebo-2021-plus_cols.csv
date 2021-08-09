@@ -2,7 +2,7 @@ column_name,column_description
 id,EEBO ID
 proquest,ProQuest ID (useful for links)
 isTcp,part of TCP
-tcp,TCP ID (warning - this is not 1-to-1)
+TCP,TCP ID (warning - this is not 1-to-1)
 eeboIS,some number
 type,some info
 pages,some info
