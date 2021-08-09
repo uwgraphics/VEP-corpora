@@ -9,5 +9,12 @@ Corpora indicated in the spreadsheets use source files from EEBO-TCP Phase 1, EE
 
 For more information about VEP, its tools, and its corpora, visit the Visualizing English Print [(site)](http://vep.cs.wisc.edu).
 
+## Some Updates
+
+(summer 2021)
+
+Have 1 ngrams file for all drama, the metadata builder can
+pull the correct rows when needed.
+
 #####Contact
 Please contact Deidre Stuffer \(stuffer@wisc.edu\) with any comments, questions, or concerns.
